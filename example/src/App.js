@@ -1,5 +1,6 @@
 
 import './App.css';
+import Importance from './ex2';
 
 
 
@@ -31,6 +32,7 @@ function App() {
    <>
    <MyComponent/>
    <TernaryOperator/>
+   <Importance/>
    
    </>
   );
